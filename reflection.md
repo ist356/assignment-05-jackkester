@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+In this assignment, we created a data pipeline. Starting off with the pandaslib functions, I knew exactly what needed to be done and was able to write the functions quickly. In the extra file, I was able to follow the guidelines using the solution with a little guidance but overall was fine. I started to struggle in the transform file when creating the pipeline, especially when combining and merging the datasets. When completing it, I didn't have the best understanding of the datasets and couldn't find the columns the instructions were talking about. Due to this, I went off the solution quite a bit. I need to go back through unit 3 and review the data pipeline portion. In the load file, I didn't quite understand what to do so I went off the solution. Not my strongest assignment so I now I know I need to go back and review.
